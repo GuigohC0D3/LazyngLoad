@@ -33,3 +33,9 @@ body {
     width: 1000px;
     height: 600px;
 }
+
+.image-container p {
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
